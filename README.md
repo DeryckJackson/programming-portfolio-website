@@ -1,24 +1,33 @@
-# Title
+# Deryck Jackson's Programming Portfolio
 
-#### Latest version date
+#### Latest version date 5/29/2020
 
 #### By Deryck Jackson
 
 ## Description
 
-
+A website featuring information about my programming projects and experience. Along with information about past work experience and personal information about myself.
 
 ## Setup and Installation
 
-
+1. Install Firefox, Chrome or Edge web browser
+2. Download github Repo to your PC
+3. Locate "index.html" file
+4. Open "index.html" with your browser of choice
 
 ## Bugs
 
-No bugs (that we know of feel free to contact us if you find one)
+No bugs (that I know of feel free to contact me if you find one)
 
 ## Tech used
 
+* HTML
+* CSS
+* Bootstrap
 
+# Contact Info
+
+[Email](mailto:dgjackson01@gmail.com)
 
 ### License
 
