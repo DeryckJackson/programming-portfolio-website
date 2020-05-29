@@ -30,3 +30,18 @@ body {
 .roboto {
   font-family: roboto;
 }
+
+#box {
+  border-style: solid;
+  border-width: 1px;
+  display: block;
+  margin-top: 50px;
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  transition: width 2.5s;
+}
+
+#box:hover {
+  width: 1000px;
+}
